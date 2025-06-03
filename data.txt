@@ -1,0 +1,4 @@
+This is a new line 
+Today is Monday.
+We are learning numpy.
+Tomorrow we'll learn pandas.
