@@ -1,1 +1,4 @@
-Line B From Main Branch
+Line  From MAIN 
+LINE FROM NEWNEW
+This is manually resolved conflict
+
