@@ -1,0 +1,4 @@
+When we want to read or write a file (say on your hard drive), we first must
+open the file. Opening the file communicates with your operating system, which
+knows where the data for each file is stored. When you open a file, you are
+asking the operating system to find the file by name and make sure the file exists.
