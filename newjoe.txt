@@ -1,1 +1,1 @@
- this is new file in main branch
+this new line from testnewbranch resolved
