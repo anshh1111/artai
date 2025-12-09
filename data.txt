@@ -1,4 +1,5 @@
 Line  From MAIN 
 LINE FROM NEWNEW
 This is manually resolved conflict
+this is testing phase testing done 
 
