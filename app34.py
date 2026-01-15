@@ -16,10 +16,9 @@ def predict():
     prediction = model.predict(input_features)
     return jsonify({"prediction": int(prediction[0])})
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
-main
-hey
-hey
-hey
-hey
+qwertyuasdfghjkl
+asdfghjkl;
+asdfghjkl;'
+sdfghjkl;
+dfghjkl;
+
